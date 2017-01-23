@@ -1,1 +1,6 @@
-readme one more time in master
+<<<<<<< HEAD
+readme one more time agian in master
+=======
+rea
+dme one more time again
+>>>>>>> feature_1
